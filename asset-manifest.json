@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gol_fc/static/css/main.a7dade1a.css",
-    "main.js": "/gol_fc/static/js/main.0364f470.js",
+    "main.js": "/gol_fc/static/js/main.cc7f4869.js",
     "static/js/453.9a528691.chunk.js": "/gol_fc/static/js/453.9a528691.chunk.js",
     "static/media/Frame 4808 (2).svg": "/gol_fc/static/media/Frame 4808 (2).3844b6f142517db239e6186358fea99f.svg",
     "static/media/Component 4 (1).png": "/gol_fc/static/media/Component 4 (1).c9943ac6ad003460bd93.png",
@@ -46,11 +46,11 @@
     "index.html": "/gol_fc/index.html",
     "static/media/Rectangle 866.svg": "/gol_fc/static/media/Rectangle 866.9ce6d6448a4406b8e9748866dec68750.svg",
     "main.a7dade1a.css.map": "/gol_fc/static/css/main.a7dade1a.css.map",
-    "main.0364f470.js.map": "/gol_fc/static/js/main.0364f470.js.map",
+    "main.cc7f4869.js.map": "/gol_fc/static/js/main.cc7f4869.js.map",
     "453.9a528691.chunk.js.map": "/gol_fc/static/js/453.9a528691.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7dade1a.css",
-    "static/js/main.0364f470.js"
+    "static/js/main.cc7f4869.js"
   ]
 }
